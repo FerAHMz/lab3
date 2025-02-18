@@ -14,7 +14,7 @@
     Una aventura interactiva en la que cada decisión transforma el curso de la historia.
   </p>
   <p>
-    <a href="http://benedict.lat/fer/laboratorios/lab3/index.html"><strong>Explora la Aventura »</strong></a>
+    <a href="http://benedict.lat/fer/Laboratorios/lab3/index.html"><strong>Explora la Aventura »</strong></a>
   </p>
 </div>
 
